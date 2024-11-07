@@ -1,5 +1,9 @@
 # WLD Clicker Advanced
 
+フロントイメージ
+https://v0.dev/chat/DOyoPVcPrxs?b=b_7zQwMxH09LV
+
+
 ## 概要
 
 WLD Clicker Advancedは、World App用のミニアプリとして開発されたクリッカーゲームです。プレイヤーはクリックしてWLD（Worldcoin）を獲得し、アップグレードを購入してより効率的にWLDを集めることができます。
