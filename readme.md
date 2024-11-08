@@ -1,7 +1,9 @@
 # WLD Clicker Advanced
 
-フロントイメージ
+フロントイメージ（ver.1）
 https://v0.dev/chat/DOyoPVcPrxs?b=b_7zQwMxH09LV
+フロントイメージ（ver.2）
+https://v0.dev/chat/DOyoPVcPrxs?b=b_od7TermAqQ9
 
 
 ## 概要
